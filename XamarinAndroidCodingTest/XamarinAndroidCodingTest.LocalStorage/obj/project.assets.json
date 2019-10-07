@@ -353,11 +353,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj",
+      "projectUniqueName": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj",
       "projectName": "XamarinAndroidCodingTest.LocalStorage",
-      "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj",
+      "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj",
       "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\obj\\",
+      "outputPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -379,8 +379,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj": {
-              "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj"
+            "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj": {
+              "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj"
             }
           }
         }

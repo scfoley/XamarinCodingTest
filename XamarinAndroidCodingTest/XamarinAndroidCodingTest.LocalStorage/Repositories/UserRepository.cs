@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Threading.Tasks;
 using SQLite;
 using XamarinAndroidCodingTest.Entity;
 using XamarinAndroidCodingTest.LocalStorage.Contracts;

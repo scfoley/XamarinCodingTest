@@ -52,6 +52,7 @@ namespace XamarinAndroidCodingTest.UI
         {
             base.OnResume();
 
+            // Update users list
             Users.Clear();
             Users.AddRange(UserRepository.GetUsers());
 
@@ -64,13 +65,12 @@ namespace XamarinAndroidCodingTest.UI
 
             // Add user button
             AddUserButton = FindViewById<Button>(Resource.Id.addUserButton);
-
             AddUserButton.Click += AddUserButton_Click;
         }
 
         private void AddUserButton_Click(object sender, System.EventArgs e)
         {
-            this.StartActivity(typeof(AddUserActivity));
+            StartActivity(typeof(AddUserActivity));
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

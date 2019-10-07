@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj",
+      "projectUniqueName": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj",
       "projectName": "XamarinAndroidCodingTest.Entity",
-      "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj",
+      "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj",
       "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\obj\\",
+      "outputPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

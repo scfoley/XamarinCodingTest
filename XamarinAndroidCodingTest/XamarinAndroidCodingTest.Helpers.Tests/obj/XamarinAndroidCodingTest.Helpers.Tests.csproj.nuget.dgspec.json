@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj": {}
+    "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj": {
+    "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj",
+        "projectUniqueName": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj",
         "projectName": "XamarinAndroidCodingTest.Helpers.Tests",
-        "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj",
+        "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\XamarinAndroidCodingTest.Helpers.Tests.csproj",
         "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\obj\\",
+        "outputPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
-                "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj"
+              "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
+                "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
+    "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj",
+        "projectUniqueName": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj",
         "projectName": "XamarinAndroidCodingTest.Helpers",
-        "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj",
+        "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj",
         "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\obj\\",
+        "outputPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

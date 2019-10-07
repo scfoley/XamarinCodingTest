@@ -1781,11 +1781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.csproj",
+      "projectUniqueName": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.csproj",
       "projectName": "XamarinAndroidCodingTest",
-      "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.csproj",
+      "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.csproj",
       "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\obj\\",
+      "outputPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1807,14 +1807,14 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj": {
-              "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj"
+            "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj": {
+              "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Entity\\XamarinAndroidCodingTest.Entity.csproj"
             },
-            "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj"
+            "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj": {
+              "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.Helpers\\XamarinAndroidCodingTest.Helpers.csproj"
             },
-            "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj": {
-              "projectPath": "C:\\Users\\Shane\\source\\repos\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj"
+            "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj": {
+              "projectPath": "C:\\XamarinCodingTest\\XamarinAndroidCodingTest\\XamarinAndroidCodingTest.LocalStorage\\XamarinAndroidCodingTest.LocalStorage.csproj"
             }
           }
         }
