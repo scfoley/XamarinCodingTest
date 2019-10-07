@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidCodingTest", "XamarinAndroidCodingTest\XamarinAndroidCodingTest.csproj", "{0C527668-635B-4F08-86BA-074A159EC6FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BD426508-BE41-4678-8B0D-82D63E684B22} = {BD426508-BE41-4678-8B0D-82D63E684B22}
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A} = {D4149369-69CD-437E-B0D2-20211F6AFE1A}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{B4A5B0AF-D50B-412C-AA4D-5454F69E0D0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinAndroidCodingTest.Entity", "XamarinAndroidCodingTest.Entity\XamarinAndroidCodingTest.Entity.csproj", "{D4149369-69CD-437E-B0D2-20211F6AFE1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinAndroidCodingTest.LocalStorage", "XamarinAndroidCodingTest.LocalStorage\XamarinAndroidCodingTest.LocalStorage.csproj", "{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidCodingTest.Helpers", "XamarinAndroidCodingTest.Helpers\XamarinAndroidCodingTest.Helpers.csproj", "{BD426508-BE41-4678-8B0D-82D63E684B22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{472580CF-1ECD-4F4E-B1D7-B69596FCC34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidCodingTest.Helpers.Tests", "XamarinAndroidCodingTest.Helpers.Tests\XamarinAndroidCodingTest.Helpers.Tests.csproj", "{F73E4C02-36F3-44F2-949E-662DF369A513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C527668-635B-4F08-86BA-074A159EC6FB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD426508-BE41-4678-8B0D-82D63E684B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD426508-BE41-4678-8B0D-82D63E684B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD426508-BE41-4678-8B0D-82D63E684B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD426508-BE41-4678-8B0D-82D63E684B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73E4C02-36F3-44F2-949E-662DF369A513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73E4C02-36F3-44F2-949E-662DF369A513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73E4C02-36F3-44F2-949E-662DF369A513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73E4C02-36F3-44F2-949E-662DF369A513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D4149369-69CD-437E-B0D2-20211F6AFE1A} = {B4A5B0AF-D50B-412C-AA4D-5454F69E0D0D}
+		{B4E4C41F-AED2-4DCE-A15C-8FAD052D4A42} = {B4A5B0AF-D50B-412C-AA4D-5454F69E0D0D}
+		{BD426508-BE41-4678-8B0D-82D63E684B22} = {B4A5B0AF-D50B-412C-AA4D-5454F69E0D0D}
+		{F73E4C02-36F3-44F2-949E-662DF369A513} = {472580CF-1ECD-4F4E-B1D7-B69596FCC34C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6946AC8A-7D68-438B-81E7-2A44079F83DE}
+	EndGlobalSection
+EndGlobal

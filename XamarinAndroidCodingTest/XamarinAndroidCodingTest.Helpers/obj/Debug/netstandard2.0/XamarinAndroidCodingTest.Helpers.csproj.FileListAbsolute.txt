@@ -1,0 +1,8 @@
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\bin\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.deps.json
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\bin\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.dll
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\bin\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.pdb
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\obj\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.csprojAssemblyReference.cache
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\obj\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.AssemblyInfoInputs.cache
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\obj\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.AssemblyInfo.cs
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\obj\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.dll
+C:\Users\Shane\source\repos\XamarinAndroidCodingTest\XamarinAndroidCodingTest.Helpers\obj\Debug\netstandard2.0\XamarinAndroidCodingTest.Helpers.pdb
